@@ -7,9 +7,9 @@
 <br/>
 <br/>
 
-## ℹ️ Information about Interlingua
+## ℹ️ Informacion sobre interlingua
 
-[Official Site](https://www.interlingua.com/)
+[Sitio oficial](https://www.interlingua.com/)
 
 [🇬🇧 Omniglot](https://www.omniglot.com/writing/interlingua.htm)
 
@@ -20,15 +20,15 @@
 
 ## 💬 Diccionarios y vocabulario
 
-[Interlingua: A Dictionary of the International Language by Alexander Gode](https://archive.org/details/interlinguaengli00inte/mode/2up)
+[🇬🇧 Interlingua: A Dictionary of the International Language by Alexander Gode](https://archive.org/details/interlinguaengli00inte/mode/2up)
 
-[Concise English–Interlingua Dictionary](https://www.interlingua.com/an/ceid/)
+[🇬🇧 Concise English–Interlingua Dictionary](https://www.interlingua.com/an/ceid/)
 
 [English-Interlingua Dictionary by Josu Lavin (PDF)](https://panix.com/~bartlett/DICTIONARIO_ANGLESE-INTERLINGUA.pdf)
 
 [English-Interlingua Dictionary by Josu Lavin (website)](https://interlingua.fandom.com/wiki/English-Interlingua_Dictionary)
 
-[Interlingua English Dictionary revised by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/IED-rev2/index.htm)
+[🇬🇧 Interlingua English Dictionary revised by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/IED-rev2/index.htm)
 
 [List of grammatical words](https://www.interlingua.com/grammatica/grammatica/lista-de-particulas-grammatic/)
 
@@ -72,7 +72,7 @@
 [Interlingua on Memrise community courses](https://community-courses.memrise.com/community/courses/english/?q=interlingua)
 
 
-## 🏫 Courses
+## 🏫 Cursos
 
 [Interlingua course for beginners](https://www.interlingua.com/es/curso/)
 
@@ -81,7 +81,7 @@
 ["Interlingua a Prime Vista" by Alexander Gode](https://archive.org/details/interlingua_a_prime_vista)
 
 
-## 📖 Reading Materials
+## 📖 Material de lectura
 
 [Wikipedia in Interlingua](https://ia.wikipedia.org/wiki/Pagina_principal)
 
@@ -93,7 +93,7 @@
 
 [Historiettas e contos in interlingua (Short stories and tales in Interlingua)](https://ia.wikibooks.org/wiki/Historiettas_e_contos_in_interlingua)
 
-[Collection of Interlingua Texts](https://www.panix.com/~bartlett/interlingua/)
+[Colecion de textos en interlinguas](https://www.panix.com/~bartlett/interlingua/)
 
 [Algunos articulos en interlingua](https://wikisource.org/wiki/Main_Page/Interlingua/Articulos)
 
@@ -101,7 +101,7 @@
 
 ["Un dozena de breve contos" por Alexander Gode](https://interlingua.fandom.com/wiki/Un_dozena_de_breve_contos_(A._Gode))
 
-[Lecturas (translations of various texts)](https://interlingua.fandom.com/wiki/Lecturas)
+[Lecturas (traduciones de varios textos)](https://interlingua.fandom.com/wiki/Lecturas)
 
 [Arias e cantos famose (traducciones de himnos y canciones)](https://interlingua.fandom.com/wiki/Arias_e_cantos_famose)
 
@@ -115,7 +115,7 @@
 
 
 ## ✍️ Blogs
-⚠️ **NOTE**: The majority of these blogs do not receive updates.
+⚠️ **NOTA**: La mayoria de estos blogs non reciben actualizaciones.
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
@@ -137,19 +137,19 @@
 
 
 
-## 🔨 Online Tools
+## 🔨 Herramientas en linea
 [🇬🇧 Verbix (conjugador)](https://docs.verbix.com/Languages/Interlingua)
 
-[Parlator de Interlingua (text to speech)](http://www.parlator.org/)
+[Parlator de Interlingua (texto a voz)](http://www.parlator.org/)
 
-[Tatoeba (sentences in Interlingua)](https://tatoeba.org/es/sentences/show_all_in/ina/none)
+[Tatoeba (oraciones en interlingua)](https://tatoeba.org/es/sentences/show_all_in/ina/none)
 
-[Forvo (Interlingua pronunciation dictionary)](https://es.forvo.com/languages/ia/)
+[Forvo (diccionario de pronunciacion del interlingua)](https://es.forvo.com/languages/ia/)
 
-[Interlingua Spell Checker for Firefox](https://addons.mozilla.org/ia/firefox/addon/corrector_orthographic/)
+[Corrector ortográfico para Firefox](https://addons.mozilla.org/ia/firefox/addon/corrector_orthographic/)
 
 
-### Translators
+### Traductores
 [🇬🇧 Online Interlingua-English Translator](https://interlingua-translator.vercel.app/)
 
 [Stars21 Interlingua Translator](https://www.stars21.com/translator/interlingua/)
