@@ -129,7 +129,7 @@
 
 [Forvo (diccionario de pronunciación)](https://es.forvo.com/languages/ia/)
 
-[Corrector ortográfico para Firefox](https://addons.mozilla.org/ia/firefox/addon/corrector_orthographic/)
+[Corrector ortográfico para Firefox](https://addons.mozilla.org/es/firefox/addon/corrector_orthographic/)
 
 
 ### Traductores
