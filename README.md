@@ -89,9 +89,9 @@
 [Arias e cantos famose (traducciones de himnos y canciones)](https://interlingua.fandom.com/wiki/Arias_e_cantos_famose)
 
 ### Recursos pagados
-[Litteratura in interlingua (físico via Lulu)](https://www.interlingua.com/litteratura-in-interlingua/)
+[Litteratura in interlingua (físico a través de Lulu)](https://www.interlingua.com/litteratura-in-interlingua/)
 
-[Facile a leger in interlingua (físico via Lulu)](https://www.interlingua.com/facilealeger/)
+[Facile a leger in interlingua (físico a través de Lulu)](https://www.interlingua.com/facilealeger/)
 
 [Panorama (una revista, física y digital)](https://www.interlingua.com/panorama/)
 
