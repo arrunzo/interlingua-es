@@ -44,10 +44,7 @@
 
 [🇬🇧 Interlingua: A Grammar of the International Language by Alexander Gode](https://archive.org/details/interlingua-grammar/mode/2up)
 
-[🇬🇧 A Grammar of Interlingua (online version)](https://adoneilson.com/int/gi/)
-
-[🇬🇧 Interlingua for Anglos by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/Interlingua%20for%20Anglos%20Qui1.pdf)
-
+[🇬🇧 A Grammar of Interlingua (en línea)](https://adoneilson.com/int/gi/)
 
 
 
