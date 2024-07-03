@@ -9,7 +9,7 @@
 <div align="center">⚠️ <b>NOTA</b>: La intención de esta lista es proporcionar a los hispanohablantes la mayor cantidad de recursos en español posible.</div>
 <br/>
 <br/>
-<div align="center">Los recursos en inglés estarán marcados con una bandera 🇬🇧.</div>
+<div align="center">Los recursos en inglés estarán marcados con una bandera. 🇬🇧</div>
 <br/>
 <br/>
 
