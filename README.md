@@ -6,6 +6,9 @@
 <p align="center"><img src="Flag_of_Interlingua.png" width="427" height="271"></p>
 <br/>
 <br/>
+<div align="center">⚠️ **NOTA**: La intención de esta lista es proporcionar a los hispanohablantes recursos en español tanto como sea posible. Los recursos en inglés estarán marcados con una bandera. 🇬🇧</div>
+<br/>
+<br/>
 
 ## ℹ️ Información sobre interlingua
 
@@ -27,8 +30,6 @@
 [Dictionario basic interlingua-espaniol](https://www.interlingua.com/archivos/es/Dictionario%20basic%20interlingua-espaniol.pdf)
 
 [Diccionario español-interlingua](https://interlingua.fandom.com/wiki/Espaniol-Interlingua)
-
-[🇬🇧 Interlingua English Dictionary revised by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/IED-rev2/index.htm)
 
 ### A list of English-Interlingua words
 [Explanation (in Interlingua)](https://www.interlingua.com/grammatica/un-lista-de-parolas-anglese-interlingua/)
