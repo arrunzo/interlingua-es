@@ -46,7 +46,9 @@
 
 [🇬🇧 A Grammar of Interlingua (en línea)](https://adoneilson.com/int/gi/)
 
+[Breve gramática y vocabulario de Interlingua](https://www.interlingua.com/archivos/es/Breve%20gramatica%20y%20vocabulario%20de%20Interlingua.pdf)
 
+[Pequeña gramática de interlingua en español](https://www.interlingua.com/archivos/es/Pequena%20Gramatica%20de%20Interlingua%20en%20Espanol.pdf)
 
 
 ## 📇 Tarjetas educativas
