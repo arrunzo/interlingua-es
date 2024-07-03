@@ -63,12 +63,6 @@
 
 ## 📇 Tarjetas educativas
 
-[Interlingua 2500 (Anki)](https://ankiweb.net/shared/info/304285234)
-
-[Interlingua vocabulary (Anki)](https://ankiweb.net/shared/info/1349681371)
-
-[Interlingua 500 (Quizlet)](https://quizlet.com/310657213/interlingua-500-flash-cards/)
-
 ### Memrise
 [2500 Palabras Básicas Interlingua con Audio CARMUR](https://community-courses.memrise.com/community/course/2149096/2500-palabras-basicas-interlingua-con-audio-carmur/)
 
@@ -91,7 +85,7 @@
 
 
 
-[Libros electronicos (solo PDF)](https://www.interlingua.com/e-libros/)
+[Libros electrónicos (solo PDF)](https://www.interlingua.com/e-libros/)
 
 [Historiettas e contos in interlingua)](https://ia.wikibooks.org/wiki/Historiettas_e_contos_in_interlingua)
 
