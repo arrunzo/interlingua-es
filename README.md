@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-## ℹ️ Informacion sobre interlingua
+## ℹ️ Información sobre interlingua
 
 [Sitio oficial](https://www.interlingua.com/)
 
@@ -47,7 +47,7 @@
 [IEDICT Interlingua-English dictionary project (search tool)](http://www.denisowski.org/Interlingua/IEDICT/iedict_readme.html)
 
 
-## 🔤 Gramatica
+## 🔤 Gramática
 
 [Interlingua: A Grammar of the International Language by Alexander Gode](https://archive.org/details/interlingua-grammar/mode/2up)
 
@@ -57,7 +57,7 @@
 
 [Interlingua for Anglos by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/Interlingua%20for%20Anglos%20Qui1.pdf)
 
-[Summary of Interlingua Grammatical Forms](https://www.panix.com/~bartlett/Interlingua_Summary.html)
+
 
 
 
@@ -69,21 +69,23 @@
 
 [Interlingua 500 (Quizlet)](https://quizlet.com/310657213/interlingua-500-flash-cards/)
 
-[Interlingua on Memrise community courses](https://community-courses.memrise.com/community/courses/english/?q=interlingua)
+### Memrise
+[2500 Palabras Básicas Interlingua con Audio CARMUR](https://community-courses.memrise.com/community/course/2149096/2500-palabras-basicas-interlingua-con-audio-carmur/)
 
+[Interlingua-Español Vocabulario del Curso + audio](https://community-courses.memrise.com/community/course/2149561/interlingua-espanol-vocabulario-del-curso-audio/)
 
 ## 🏫 Cursos
 
-[Interlingua course for beginners](https://www.interlingua.com/es/curso/)
+[Curso de interlingua para principiantes](https://www.interlingua.com/es/curso/)
 
-[Conversation Course (en interlingua y ingles 🇬🇧)](https://en.wikibooks.org/wiki/Interlingua/Curso_de_conversation)
+[Curso de conversación (en interlingua e inglés 🇬🇧)](https://en.wikibooks.org/wiki/Interlingua/Curso_de_conversation)
 
-["Interlingua a Prime Vista" by Alexander Gode](https://archive.org/details/interlingua_a_prime_vista)
+["Interlingua a Prime Vista" por Alexander Gode](https://archive.org/details/interlingua_a_prime_vista)
 
 
 ## 📖 Material de lectura
 
-[Wikipedia in Interlingua](https://ia.wikipedia.org/wiki/Pagina_principal)
+[Wikipedia en Interlingua](https://ia.wikipedia.org/wiki/Pagina_principal)
 
 [Textos exemplar](https://www.interlingua.com/grammatica/grammatica/appendices/textos-exemplar/)
 
@@ -91,31 +93,31 @@
 
 [Libros electronicos (solo PDF)](https://www.interlingua.com/e-libros/)
 
-[Historiettas e contos in interlingua (Short stories and tales in Interlingua)](https://ia.wikibooks.org/wiki/Historiettas_e_contos_in_interlingua)
+[Historiettas e contos in interlingua)](https://ia.wikibooks.org/wiki/Historiettas_e_contos_in_interlingua)
 
-[Colecion de textos en interlinguas](https://www.panix.com/~bartlett/interlingua/)
+[Colección de textos en interlingua](https://www.panix.com/~bartlett/interlingua/)
 
-[Algunos articulos en interlingua](https://wikisource.org/wiki/Main_Page/Interlingua/Articulos)
+[Algunos artículos en interlingua](https://wikisource.org/wiki/Main_Page/Interlingua/Articulos)
 
 ["Dece contos" por Alexander Gode](https://interlingua.fandom.com/wiki/Dece_contos_(A._Gode))
 
 ["Un dozena de breve contos" por Alexander Gode](https://interlingua.fandom.com/wiki/Un_dozena_de_breve_contos_(A._Gode))
 
-[Lecturas (traduciones de varios textos)](https://interlingua.fandom.com/wiki/Lecturas)
+[Lecturas (traducciones de varios textos)](https://interlingua.fandom.com/wiki/Lecturas)
 
 [Arias e cantos famose (traducciones de himnos y canciones)](https://interlingua.fandom.com/wiki/Arias_e_cantos_famose)
 
 ### Recursos pagados
-[Litteratura in interlingua (fisico via Lulu)](https://www.interlingua.com/litteratura-in-interlingua/)
+[Litteratura in interlingua (físico via Lulu)](https://www.interlingua.com/litteratura-in-interlingua/)
 
-[Facile a leger in interlingua (fisico via Lulu)](https://www.interlingua.com/facilealeger/)
+[Facile a leger in interlingua (físico via Lulu)](https://www.interlingua.com/facilealeger/)
 
-[Panorama (una revista, fisica y digital)](https://www.interlingua.com/panorama/)
+[Panorama (una revista, física y digital)](https://www.interlingua.com/panorama/)
 
 
 
 ## ✍️ Blogs
-⚠️ **NOTA**: La mayoria de estos blogs non reciben actualizaciones.
+⚠️ **NOTA**: La mayoría de estos blogs no reciben actualizaciones.
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
@@ -137,14 +139,14 @@
 
 
 
-## 🔨 Herramientas en linea
+## 🔨 Herramientas en línea
 [🇬🇧 Verbix (conjugador)](https://docs.verbix.com/Languages/Interlingua)
 
 [Parlator de Interlingua (texto a voz)](http://www.parlator.org/)
 
 [Tatoeba (oraciones en interlingua)](https://tatoeba.org/es/sentences/show_all_in/ina/none)
 
-[Forvo (diccionario de pronunciacion del interlingua)](https://es.forvo.com/languages/ia/)
+[Forvo (diccionario de pronunciación del interlingua)](https://es.forvo.com/languages/ia/)
 
 [Corrector ortográfico para Firefox](https://addons.mozilla.org/ia/firefox/addon/corrector_orthographic/)
 
@@ -200,7 +202,7 @@
 
 [Ressources re Interlingua (enlaces a otras páginas y documentos que no están en esta lista)](https://rudhar.com/lingtics/intrlnga/resurses.htm)
 
-[🇬🇧 Documents por Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/)
+[🇬🇧 Documentos por Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/)
 
 [Interlingua Wiki (¡Esto NO es Wikipedia!)](https://interlingua.fandom.com/wiki/Pagina_principal)
 
