@@ -6,7 +6,7 @@
 <p align="center"><img src="Flag_of_Interlingua.png" width="427" height="271"></p>
 <br/>
 <br/>
-<div align="center">⚠️ <b>NOTA</b>: Los recursos en inglés estarán marcados con una bandera. 🇬🇧</div>
+<div align="center">⚠️ <b>ATENCIÓN</b>: Los recursos en inglés estarán marcados con una bandera. 🇬🇧</div>
 <br/>
 <br/>
 
@@ -98,7 +98,7 @@
 
 
 ## ✍️ Blogs
-⚠️ **NOTA**: La mayoría de estos blogs no reciben actualizaciones.
+⚠️ **ATENCIÓN**: La mayoría de estos blogs no reciben actualizaciones.
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
