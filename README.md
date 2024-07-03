@@ -6,7 +6,8 @@
 <p align="center"><img src="Flag_of_Interlingua.png" width="427" height="271"></p>
 <br/>
 <br/>
-<div align="center">⚠️ <b>NOTA</b>: La intención de esta lista es proporcionar a los hispanohablantes recursos en español tanto como sea posible. Los recursos en inglés estarán marcados con una bandera. 🇬🇧</div>
+<div align="center">⚠️ <b>NOTA</b>: La intención de esta lista es proporcionar a los hispanohablantes recursos en español tanto como sea posible. 
+  Los recursos en inglés estarán marcados con una bandera. 🇬🇧</div>
 <br/>
 <br/>
 
