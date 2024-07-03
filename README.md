@@ -158,6 +158,12 @@
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
+### Julio Toro
+[YouTube](https://www.youtube.com/@juliotoro92)
+
+[TikTok](https://www.tiktok.com/@juliotoro92)
+
+
 ## 👥 Comunidad
 [Discord](https://discord.gg/e8FxURCx)
 
