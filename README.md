@@ -44,9 +44,9 @@
 [English-Interlingua Vocabulary](https://www.interlingua.com/grammatica/vocabulario-anglese-interlingua/)
 
 ### Diccionarios buscables
-[Multilingual Interlingua Dictionary (website of Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
+[Diccionario multilingüe (sitio de Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
 
-[IEDICT Interlingua-English dictionary project (search tool)](http://www.denisowski.org/Interlingua/IEDICT/iedict_readme.html)
+[🇬🇧 IEDICT Interlingua-English dictionary project](http://www.denisowski.org/Interlingua/IEDICT/iedict_readme.html)
 
 
 ## 🔤 Gramática
@@ -55,9 +55,7 @@
 
 [🇬🇧 A Grammar of Interlingua (online version)](https://adoneilson.com/int/gi/)
 
-[Interlingua Grammar (Wikipedia article)](https://en.wikipedia.org/wiki/Interlingua_grammar)
-
-[Interlingua for Anglos by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/Interlingua%20for%20Anglos%20Qui1.pdf)
+[🇬🇧 Interlingua for Anglos by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/Interlingua%20for%20Anglos%20Qui1.pdf)
 
 
 
