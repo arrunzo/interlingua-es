@@ -74,7 +74,7 @@
 
 [Libros electrónicos (solo PDF)](https://www.interlingua.com/e-libros/)
 
-[Historiettas e contos in interlingua)](https://ia.wikibooks.org/wiki/Historiettas_e_contos_in_interlingua)
+[Historiettas e contos in interlingua](https://ia.wikibooks.org/wiki/Historiettas_e_contos_in_interlingua)
 
 [Colección de textos en interlingua](https://www.panix.com/~bartlett/interlingua/)
 
