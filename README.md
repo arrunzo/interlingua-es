@@ -34,11 +34,6 @@
 
 [Diccionario español-interlingua](https://interlingua.fandom.com/wiki/Espaniol-Interlingua)
 
-### A list of English-Interlingua words
-[Explanation (in Interlingua)](https://www.interlingua.com/grammatica/un-lista-de-parolas-anglese-interlingua/)
-
-[English-Interlingua Vocabulary](https://www.interlingua.com/grammatica/vocabulario-anglese-interlingua/)
-
 ### Diccionarios buscables
 [Diccionario multilingüe (sitio de Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
 
@@ -136,7 +131,7 @@
 
 [Tatoeba (oraciones en interlingua)](https://tatoeba.org/es/sentences/show_all_in/ina/none)
 
-[Forvo (diccionario de pronunciación del interlingua)](https://es.forvo.com/languages/ia/)
+[Forvo (diccionario de pronunciación)](https://es.forvo.com/languages/ia/)
 
 [Corrector ortográfico para Firefox](https://addons.mozilla.org/ia/firefox/addon/corrector_orthographic/)
 
@@ -146,7 +141,7 @@
 
 [Stars21 Interlingua Translator](https://www.stars21.com/translator/interlingua/)
 
-[Online English Interlingua Translator](https://www.interlinguatranslate.org/dashboard/docs/pokus5.html)
+[🇬🇧 Online English Interlingua Translator](https://www.interlinguatranslate.org/dashboard/docs/pokus5.html)
 
 
 
