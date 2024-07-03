@@ -26,17 +26,9 @@
 
 [Dictionario basic interlingua-espaniol](https://www.interlingua.com/archivos/es/Dictionario%20basic%20interlingua-espaniol.pdf)
 
-[🇬🇧 Concise English–Interlingua Dictionary](https://www.interlingua.com/an/ceid/)
-
 [Diccionario español-interlingua](https://interlingua.fandom.com/wiki/Espaniol-Interlingua)
 
 [🇬🇧 Interlingua English Dictionary revised by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/IED-rev2/index.htm)
-
-[List of grammatical words](https://www.interlingua.com/grammatica/grammatica/lista-de-particulas-grammatic/)
-
-[English-Interlingua Dictionary (Interlingua Wikipedia)](https://ia.wikipedia.org/wiki/Usator:Melv_douc/dictionario_anglese-interlingua)
-
-[Basic Interlingua English Dictionary](https://en.wikibooks.org/wiki/Interlingua/Basic_Interlingua_English_Dictionary)
 
 ### A list of English-Interlingua words
 [Explanation (in Interlingua)](https://www.interlingua.com/grammatica/un-lista-de-parolas-anglese-interlingua/)
@@ -79,7 +71,7 @@
 
 ## 📖 Material de lectura
 
-[Wikipedia en Interlingua](https://ia.wikipedia.org/wiki/Pagina_principal)
+[Wikipedia en interlingua](https://ia.wikipedia.org/wiki/Pagina_principal)
 
 [Textos exemplar](https://www.interlingua.com/grammatica/grammatica/appendices/textos-exemplar/)
 
