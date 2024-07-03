@@ -28,9 +28,7 @@
 
 [🇬🇧 Concise English–Interlingua Dictionary](https://www.interlingua.com/an/ceid/)
 
-[English-Interlingua Dictionary by Josu Lavin (PDF)](https://panix.com/~bartlett/DICTIONARIO_ANGLESE-INTERLINGUA.pdf)
-
-[English-Interlingua Dictionary by Josu Lavin (website)](https://interlingua.fandom.com/wiki/English-Interlingua_Dictionary)
+[Diccionario español-interlingua](https://interlingua.fandom.com/wiki/Espaniol-Interlingua)
 
 [🇬🇧 Interlingua English Dictionary revised by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/IED-rev2/index.htm)
 
@@ -53,9 +51,9 @@
 
 ## 🔤 Gramática
 
-[Interlingua: A Grammar of the International Language by Alexander Gode](https://archive.org/details/interlingua-grammar/mode/2up)
+[🇬🇧 Interlingua: A Grammar of the International Language by Alexander Gode](https://archive.org/details/interlingua-grammar/mode/2up)
 
-[A Grammar of Interlingua (online version)](https://adoneilson.com/int/gi/)
+[🇬🇧 A Grammar of Interlingua (online version)](https://adoneilson.com/int/gi/)
 
 [Interlingua Grammar (Wikipedia article)](https://en.wikipedia.org/wiki/Interlingua_grammar)
 
