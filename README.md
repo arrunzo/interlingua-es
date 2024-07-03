@@ -22,6 +22,10 @@
 
 [🇬🇧 Interlingua: A Dictionary of the International Language by Alexander Gode](https://archive.org/details/interlinguaengli00inte/mode/2up)
 
+[Interlingua – diccionario básico de 2.500 palabras](https://www.interlingua.com/archivos/Interlingua%20-%20diccionario%20basico%20de%202.500%20palabras.pdf)
+
+[Dictionario basic interlingua-espaniol](https://www.interlingua.com/archivos/es/Dictionario%20basic%20interlingua-espaniol.pdf)
+
 [🇬🇧 Concise English–Interlingua Dictionary](https://www.interlingua.com/an/ceid/)
 
 [English-Interlingua Dictionary by Josu Lavin (PDF)](https://panix.com/~bartlett/DICTIONARIO_ANGLESE-INTERLINGUA.pdf)
