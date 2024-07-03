@@ -182,12 +182,12 @@
 
 [Reddit](https://www.reddit.com/r/interlingua/)
 
-### Grupos de Facebook
+### Facebook
 [Interlingua (IALA)](https://www.facebook.com/groups/interlingua.IALA/)
 
 [Union Mundial pro Interlingua](https://www.facebook.com/interlingua.umi)
 
-### Grupos de Telegram
+### Telegram
 [Interlingua (grupo más activo)](https://t.me/interlinguaiala)
 
 [Interlingua](https://t.me/+3KVoLFMJRjVhZTYx)
