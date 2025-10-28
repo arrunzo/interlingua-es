@@ -10,6 +10,8 @@
 <br/>
 <br/>
 
+[🎥 🎞️ Presentación en vídeo](https://www.youtube.com/watch?v=uhJSZ50c2Qc)
+
 ## ℹ️ Información sobre interlingua
 
 [Sitio oficial](https://www.interlingua.com/)
