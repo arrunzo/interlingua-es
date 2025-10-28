@@ -202,4 +202,4 @@
 
 [Vocabulario de pronunciación por Josu Lavin](https://drive.google.com/file/d/1JEzvDB94fLH_7aRfq43qWqoUJnKrrMz6/view?usp=sharing)
 
-[Materiales acumulados por Paul Bartlett](https://drive.google.com/file/d/1JEzvDB94fLH_7aRfq43qWqoUJnKrrMz6/view?usp=sharing)
+[Materiales acumulados por Paul Bartlett](https://www.panix.com/~bartlett/interlingua/)
