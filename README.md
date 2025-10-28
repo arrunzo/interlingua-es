@@ -190,7 +190,7 @@
 
 [Proverbios](https://ia.wikipedia.org/wiki/Appendice:Lista_de_locutiones_e_proverbios)
 
-[Malas palabras](https://en.wikibooks.org/wiki/Interlingua/Profanity)
+[🇬🇧 Malas palabras](https://en.wikibooks.org/wiki/Interlingua/Profanity)
 
 [Ressources re Interlingua (enlaces a otras páginas y documentos que no están en esta lista)](https://rudhar.com/lingtics/intrlnga/resurses.htm)
 
@@ -200,4 +200,6 @@
 
 [Diccionarios, gramáticas y cursos (para hispanohablantes)](https://www.interlingua.com/instruction-national/#espaniol)
 
+[Vocabulario de pronunciación por Josu Lavin](https://drive.google.com/file/d/1JEzvDB94fLH_7aRfq43qWqoUJnKrrMz6/view?usp=sharing)
 
+[Materiales acumulados por Paul Bartlett](https://drive.google.com/file/d/1JEzvDB94fLH_7aRfq43qWqoUJnKrrMz6/view?usp=sharing)
