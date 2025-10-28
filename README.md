@@ -163,6 +163,11 @@
 
 [TikTok](https://www.tiktok.com/@juliotoro92)
 
+### Kroyxt
+[YouTube](https://www.youtube.com/@Kroyxt)
+
+[TikTok](https://www.tiktok.com/@kroyxt)
+
 
 ## 👥 Comunidad
 [Discord](https://discord.gg/yVzm2bh2jz)
